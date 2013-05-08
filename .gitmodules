@@ -1,0 +1,87 @@
+[submodule "smartcampus.vas.communicator.web"]
+	path = smartcampus.vas.communicator.web
+	url = git@github.com:smartcampuslab/smartcampus.vas.communicator.web.git
+[submodule "smartcampus.vas.communicator.domain"]
+	path = smartcampus.vas.communicator.domain
+	url = git@github.com:smartcampuslab/smartcampus.vas.communicator.domain.git
+[submodule "smartcampus-vas-communicator-android"]
+	path = smartcampus-vas-communicator-android
+	url = git@github.com:smartcampuslab/smartcampus-vas-communicator-android.git
+[submodule "smartcampus.vas.community-manager.web"]
+	path = smartcampus.vas.community-manager.web
+	url = git@github.com:smartcampuslab/smartcampus.vas.community-manager.web.git
+[submodule "smartcampus.vas.community-manager.android"]
+	path = smartcampus.vas.community-manager.android
+	url = git@github.com:smartcampuslab/smartcampus.vas.community-manager.android.git
+[submodule "smartcampus.vas.community-manager.api"]
+	path = smartcampus.vas.community-manager.api
+	url = git@github.com:smartcampuslab/smartcampus.vas.community-manager.api.git
+[submodule "smartcampus.vas.corsi.web"]
+	path = smartcampus.vas.corsi.web
+	url = git@github.com:smartcampuslab/smartcampus.vas.corsi.web.git
+[submodule "smartcampus.vas.corsi.android"]
+	path = smartcampus.vas.corsi.android
+	url = git@github.com:smartcampuslab/smartcampus.vas.corsi.android.git
+[submodule "smartcampus.vas.discovertrento.android"]
+	path = smartcampus.vas.discovertrento.android
+	url = git@github.com:smartcampuslab/smartcampus.vas.discovertrento.android.git
+[submodule "smartcampus.vas.discovertrento.domain"]
+	path = smartcampus.vas.discovertrento.domain
+	url = https://github.com/smartcampuslab/smartcampus.vas.discovertrento.domain
+[submodule "smartcampus.vas.discovertrento.fb.events.domain"]
+	path = smartcampus.vas.discovertrento.fb.events.domain
+	url = git@github.com:smartcampuslab/smartcampus.vas.discovertrento.fb.events.domain.git
+[submodule "smartcampus.vas.discovertrento.parchimetri.domain"]
+	path = smartcampus.vas.discovertrento.parchimetri.domain
+	url = git@github.com:smartcampuslab/smartcampus.vas.discovertrento.parchimetri.domain.git
+[submodule "smartcampus.vas.discovertrento.pois.domain"]
+	path = smartcampus.vas.discovertrento.pois.domain
+	url = git@github.com:smartcampuslab/smartcampus.vas.discovertrento.pois.domain.git
+[submodule "smartcampus.vas.discovertrento.smartplannerdata.domain"]
+	path = smartcampus.vas.discovertrento.smartplannerdata.domain
+	url = git@github.com:smartcampuslab/smartcampus.vas.discovertrento.smartplannerdata.domain.git
+[submodule "smartcampus.vas.discovertrento.trento.events.domain"]
+	path = smartcampus.vas.discovertrento.trento.events.domain
+	url = git@github.com:smartcampuslab/smartcampus.vas.discovertrento.trento.events.domain.git
+[submodule "smartcampus.vas.discovertrento.trento.trentinofamiglia.domain"]
+	path = smartcampus.vas.discovertrento.trento.trentinofamiglia.domain
+	url = git@github.com:smartcampuslab/smartcampus.vas.discovertrento.trento.trentinofamiglia.domain.git
+[submodule "smartcampus.vas.discovertrento.web"]
+	path = smartcampus.vas.discovertrento.web
+	url = git@github.com:smartcampuslab/smartcampus.vas.discovertrento.web.git
+[submodule "smartcampus.vas.experiencebuster.web"]
+	path = smartcampus.vas.experiencebuster.web
+	url = git@github.com:smartcampuslab/smartcampus.vas.experiencebuster.web.git
+[submodule "smartcampus.vas.experiencebuster.android"]
+	path = smartcampus.vas.experiencebuster.android
+	url = git@github.com:smartcampuslab/smartcampus.vas.experiencebuster.android.git
+[submodule "smartcampus.vas.ifame.web"]
+	path = smartcampus.vas.ifame.web
+	url = git@github.com:smartcampuslab/smartcampus.vas.ifame.web.git
+[submodule "smartcampus.vas.ifame.android"]
+	path = smartcampus.vas.ifame.android
+	url = git@github.com:smartcampuslab/smartcampus.vas.ifame.android.git
+[submodule "smartcampus.vas.journeyplanner.web"]
+	path = smartcampus.vas.journeyplanner.web
+	url = git@github.com:smartcampuslab/smartcampus.vas.journeyplanner.web.git
+[submodule "smartcampus.vas.journeyplanner.android"]
+	path = smartcampus.vas.journeyplanner.android
+	url = git@github.com:smartcampuslab/smartcampus.vas.journeyplanner.android.git
+[submodule "smartcampus.vas.journeyplanner.domain"]
+	path = smartcampus.vas.journeyplanner.domain
+	url = git@github.com:smartcampuslab/smartcampus.vas.journeyplanner.domain.git
+[submodule "smartcampus.vas.launcher.android"]
+	path = smartcampus.vas.launcher.android
+	url = git@github.com:smartcampuslab/smartcampus.vas.launcher.android.git
+[submodule "smartcampus.vas.portfolio.web"]
+	path = smartcampus.vas.portfolio.web
+	url = git@github.com:smartcampuslab/smartcampus.vas.portfolio.web.git
+[submodule "smartcampus.vas.portfolio.domain"]
+	path = smartcampus.vas.portfolio.domain
+	url = git@github.com:smartcampuslab/smartcampus.vas.portfolio.domain.git
+[submodule "smartcampus.vas.portfolio.android"]
+	path = smartcampus.vas.portfolio.android
+	url = git@github.com:smartcampuslab/smartcampus.vas.portfolio.android.git
+[submodule "smartcampus.vas.vivitrento.android.unified_apps"]
+	path = smartcampus.vas.vivitrento.android.unified_apps
+	url = git@github.com:smartcampuslab/smartcampus.vas.vivitrento.android.unified_apps.git
