@@ -4,9 +4,6 @@
 [submodule "smartcampus.vas.communicator.domain"]
 	path = smartcampus.vas.communicator.domain
 	url = git@github.com:smartcampuslab/smartcampus.vas.communicator.domain.git
-[submodule "smartcampus-vas-communicator-android"]
-	path = smartcampus-vas-communicator-android
-	url = git@github.com:smartcampuslab/smartcampus-vas-communicator-android.git
 [submodule "smartcampus.vas.community-manager.web"]
 	path = smartcampus.vas.community-manager.web
 	url = git@github.com:smartcampuslab/smartcampus.vas.community-manager.web.git
@@ -85,3 +82,6 @@
 [submodule "smartcampus.vas.vivitrento.android.unified_apps"]
 	path = smartcampus.vas.vivitrento.android.unified_apps
 	url = git@github.com:smartcampuslab/smartcampus.vas.vivitrento.android.unified_apps.git
+[submodule "smartcampus.vas.communicator.android"]
+	path = smartcampus.vas.communicator.android
+	url = git@github.com:smartcampuslab/smartcampus.vas.communicator.android.git
