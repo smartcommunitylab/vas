@@ -85,3 +85,6 @@
 [submodule "smartcampus.vas.communicator.android"]
 	path = smartcampus.vas.communicator.android
 	url = git@github.com:smartcampuslab/smartcampus.vas.communicator.android.git
+[submodule "smartcampus.vas.universiadi2013.web"]
+	path = smartcampus.vas.universiadi2013.web
+	url = git@github.com:smartcampuslab/smartcampus.vas.universiadi2013.web.git
